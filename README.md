@@ -12,6 +12,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 	- [HTML](#html)
 	- [JAVA](#java)
 	- [JS](#js)
+	- [LINUX](#linux)
 
 ### C++
 *Linki związane z C++. Artykuły, Repozytoria, Przykłady*
@@ -41,4 +42,9 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 *Linki związane z technologią JavaScript. Artykuły, Repozytoria, Przykłady*
 
 	//TODO
+
+### LINUX
+*Linki związane głównie z Linuxem (Wszystkie dystrybucje) oraz ciekawe materiały*
+
+* [Syntax Shell](http://syntax-shell.me/) - Młody projekt przygotowany dla grona użytkowników naszego forum :smile:
 
