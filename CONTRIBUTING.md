@@ -2,7 +2,7 @@
 ---
  Proszę sprawdź czy Twój "Pull Request" jest zgodny z następującymi punktami:
 
-* Zanim zrobisz Pull Request sprawdź czy to co chcesz dodać już nie istnieje.
+* Zanim zrobisz Pull Request sprawdź czy nie istnieje ten link który chcesz dodać.
 * Sprawdź gramatykę..
 * Jeden Pull Request = 1 link.
 * Staraj się dodawać w miarę aktualne linki.
