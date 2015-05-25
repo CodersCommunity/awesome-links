@@ -16,7 +16,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 ### C++
 *Linki związane z C++. Artykuły, Repozytoria, Przykłady*
 
-	[Serwis uczący podstaw C++](http://www.cpp0x.pl) - Serwis na którym widnieje wiele kursów programowania razem z forum o C++.
+* [cpp0x.pl](http://www.cpp0x.pl) - Serwis na którym widnieje wiele kursów programowania razem z forum o C++.
 
 ### PHP
 *Linki związane z PHP. Artykuły, Repozytoria, Przykłady*
@@ -30,7 +30,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 ### Front-end
 *Linki związane z programowaniem front-endowym, czyli HTML, CSS i JavaScript. Artykuły, Repozytoria, Przykłady*
 
-* [Rozwinięty kurs HTML, CSS, JS](http://www.kurshtml.edu.pl) - Rozwinięty kurs front-endowym.
+* [Kurs HTML](http://www.kurshtml.edu.pl) - Rozwinięty kurs front-endowym.
 
 ### Java
 *Linki związane programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
