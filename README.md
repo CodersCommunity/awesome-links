@@ -1,7 +1,7 @@
 # awesome-links
 Mała lista przydatnych linków które zostały podesłane przez użytkowników forum [forum.miroslawzelent.pl](http://forum.miroslawzelent.pl/)
 
-**Pomysł powstał po to, aby naprawdę ważne i ciekawe linki zachować w tej liście i odsyłać do tego repozytorium z forum.**
+**Pomysł powstał po to, aby naprawdę ważne i ciekawe linki zachować w tej liście, i odsyłać do tego repozytorium z forum i innych kątów zbierających pasjonatów informatyki.**
 
 Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 
@@ -9,37 +9,31 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 - **Kategorie**
 	- [C++](#c++)
 	- [PHP](#php)
-	- [HTML](#html)
+	- [Front-end](#front-end)
 	- [JAVA](#java)
-	- [JS](#js)
 	- [LINUX](#linux)
 
 ### C++
 *Linki związane z C++. Artykuły, Repozytoria, Przykłady*
 
-	//TODO
+* [cpp0x.pl](http://www.cpp0x.pl) - Serwis na którym widnieje wiele kursów programowania razem z forum o C++.
 
 ### PHP
 *Linki związane z PHP. Artykuły, Repozytoria, Przykłady*
 
-* [Manual PHP](http://php.net/manual/en/) - Tutaj znajdziesz opis każdej funkcji/klasy w PHP wraz z przykładami
+* [Manual PHP](http://php.net/manual/en/) - Oficjalna dokumentacja PHP, to tutaj znajdziesz opis każdej funkcji i klasy w PHP wraz z przykładami.
 * [Awesome PHP](https://github.com/ziadoz/awesome-php/)  Aktualna lista wspaniałych bibliotek a nawet więcej.
-* [Composer?](http://webhelp.pl/blog/co-to-jest-composer-jak-i-do-czego-mozna-go-uzywac/) - Artykuł omawiąjący czym jest Composer w PHP.
-* [PHPStorm?](https://laracasts.com/series/how-to-be-awesome-in-phpstorm) - Jak skonfigurować sobie PHPStorma.
+* [Composer?](http://webhelp.pl/blog/co-to-jest-composer-jak-i-do-czego-mozna-go-uzywac/) - Artykuł omawiający czym jest Composer w PHP.
+* [PHPStorm?](https://laracasts.com/series/how-to-be-awesome-in-phpstorm) - Jak dobrze skonfigurować PHPStorma.
 * [Wzorce w PHP](https://github.com/domnikl/DesignPatternsPHP) - Biblioteczka wzorców w PHP wraz z przykładami.
 
-### HTML
-*Linki związane z HTML. Artykuły, Repozytoria, Przykłady*
+### Front-end
+*Linki związane z programowaniem front-endowym, czyli HTML, CSS i JavaScript. Artykuły, Repozytoria, Przykłady*
 
-	//TODO
+* [Kurs HTML](http://www.kurshtml.edu.pl) - Rozwinięty kurs front-endowym.
 
 ### Java
 *Linki związane programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
-
-	//TODO
-
-### JS
-*Linki związane z technologią JavaScript. Artykuły, Repozytoria, Przykłady*
 
 	//TODO
 
