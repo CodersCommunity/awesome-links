@@ -36,7 +36,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 ### Java
 *Linki związane programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
 
-	//TODO
+* [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Ciekawy artykuł na temat Mockowania obiektów.
 
 ### LINUX
 *Linki związane głównie z Linuxem (Wszystkie dystrybucje) oraz ciekawe materiały*
