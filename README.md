@@ -49,6 +49,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 *Linki związane z Systemami kontroli wersji. Poradniki / Artykuły*
 
 * [Code School Git](https://www.codeschool.com/paths/git) - B. Dobry zbiór poradników które w interaktywny sposób uczą obsługi gita.
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - Interaktywny poradnik gita.
 
 ### Inne
 *Linki które nie pasują do powyższych kategorii.*
