@@ -12,6 +12,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 	- [Front-end](#front-end)
 	- [JAVA](#java)
 	- [LINUX](#linux)
+	- [VCS](#vcs)
 	- [Inne](#inne)
 
 ### C++
@@ -43,6 +44,12 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 *Linki związane głównie z Linuxem (Wszystkie dystrybucje) oraz ciekawe materiały*
 
 * [Syntax Shell](http://syntax-shell.me/) - Młody projekt przygotowany dla grona użytkowników naszego forum :smile:
+
+### VCS
+*Linki związane z Systemami kontroli wersji. Poradniki / Artykuły*
+
+* [Code School Git](https://www.codeschool.com/paths/git) - B. Dobry zbiór poradników które w interaktywny sposób uczą obsługi gita.
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - Interaktywny poradnik gita.
 
 ### Inne
 *Linki które nie pasują do powyższych kategorii.*
