@@ -27,7 +27,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 * [Awesome PHP](https://github.com/ziadoz/awesome-php/) - Aktualna lista wspaniałych bibliotek a nawet więcej.
 * [Composer](http://webhelp.pl/blog/co-to-jest-composer-jak-i-do-czego-mozna-go-uzywac/) - Artykuł omawiający czym jest Composer w PHP.
 * [DesignPatterns PHP](https://github.com/domnikl/DesignPatternsPHP) - Biblioteczka wzorców w PHP wraz z przykładami.
-* [DDD & VO](http://it.esky.pl/2015/07/10/domain-driven-design-value-objects/) - Artykuł dotyczący Value Objects w PHP
+* [DDD & VO](http://it.esky.pl/2015/07/10/domain-driven-design-value-objects/) - Artykuł dotyczący Value Objects w PHP.
 
 ### Front-end
 *Linki związane z programowaniem front-endowym, czyli HTML, CSS i JavaScript. Artykuły, Repozytoria, Przykłady*
@@ -56,3 +56,4 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 
 * [Praca z PHPStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm) - Jak dobrze skonfigurować PHPStorma.
 * [Online Regex Tester](https://regex101.com/) - Świetna stronka do testowania / budowania regexów.
+* [3v4l.org](http://3v4l.org/) - Strona na której za jednym kliknięciem przetestujesz swój kod PHP w ponad 150+ wersjach.
