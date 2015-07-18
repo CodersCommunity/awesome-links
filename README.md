@@ -28,6 +28,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 * [Composer](http://webhelp.pl/blog/co-to-jest-composer-jak-i-do-czego-mozna-go-uzywac/) - Artykuł omawiający czym jest Composer w PHP.
 * [DesignPatterns PHP](https://github.com/domnikl/DesignPatternsPHP) - Biblioteczka wzorców w PHP wraz z przykładami.
 * [DDD & VO](http://it.esky.pl/2015/07/10/domain-driven-design-value-objects/) - Artykuł dotyczący Value Objects w PHP.
+* [Blog Majstra](http://phpmajster.blogspot.com/search/label/PHP) - B. Ciekawy blog związany z PHP i nie tylko :+1:
 
 ### Front-end
 *Linki związane z programowaniem front-endowym, czyli HTML, CSS i JavaScript. Artykuły, Repozytoria, Przykłady*
