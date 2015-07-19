@@ -7,11 +7,11 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 
 ## Spis Treści
 - **Kategorie**
-	- [C++](#c++)
+	- [C++](#c)
 	- [Back-end](#back-end)
 	- [Front-end](#front-end)
 	- [JAVA](#java)
-	- [C#](#CSharp)
+	- [C#](#csharp)
 	- [LINUX](#linux)
 	- [VCS](#vcs)
 	- [Inne](#inne)
