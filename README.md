@@ -11,6 +11,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 	- [Back-end](#back-end)
 	- [Front-end](#front-end)
 	- [JAVA](#java)
+	- [C#](#CSharp)
 	- [LINUX](#linux)
 	- [VCS](#vcs)
 	- [Inne](#inne)
@@ -40,6 +41,13 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 *Linki związane programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
 
 * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Ciekawy artykuł na temat Mockowania obiektów.
+
+### CSharp
+*Linki związane programowaniem w C#. Artykuły, Repozytoria, Przykłady*
+
+* [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - Prosty kurs dla początkujących.
+* [Cezary Walenciuk](http://www.cezarywalenciuk.pl/category/c.aspx) - Blog i kurs C# w jednym.
+
 
 ### LINUX
 *Linki związane głównie z Linuxem (Wszystkie dystrybucje) oraz ciekawe materiały*
