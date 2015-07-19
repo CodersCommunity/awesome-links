@@ -45,8 +45,8 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 ### CSharp
 *Linki związane programowaniem w C#. Artykuły, Repozytoria, Przykłady*
 
-* [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - podstawowy kurs który otwiera oczy początkującym.
-* [Cezary Walenciuk](http://www.cezarywalenciuk.pl/category/c.aspx) - Blog z kursem C#
+* [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - Prosty kurs dla początkujących.
+* [Cezary Walenciuk](http://www.cezarywalenciuk.pl/category/c.aspx) - Blog i kurs C# w jednym.
 
 
 ### LINUX
