@@ -34,8 +34,8 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 ### Front-end
 *Linki związane z programowaniem front-endowym, czyli HTML, CSS i JavaScript. Artykuły, Repozytoria, Przykłady*
 
+* [Mozilla Developer Network](https://developer.mozilla.org/pl/) - Dobre źródło informacji o technologiach webowych (HTML, CSS, JavaScript), niestety nie do końca przetłumaczone.
 * [Kurs HTML](http://www.kurshtml.edu.pl) - Rozwinięty kurs front-endowy.
-* [Manual JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Jedna z najlepszych dokumentacji JavaScript.
 
 ### Java
 *Linki związane programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
