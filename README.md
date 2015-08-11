@@ -37,6 +37,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 * [Mozilla Developer Network](https://developer.mozilla.org/en/) - Dobre źródło informacji o technologiach webowych (HTML, CSS, JavaScript). Strona jest w języku angielskim, ale część artykułów jest przetłumaczona na polski.
 * [Kurs HTML](http://www.kurshtml.edu.pl) - Rozwinięty kurs front-endowy.
 * [How2HTML](http://how2html.pl/) - Kurs HTML dla początkujących.
+* [CSS-Tricks](https://css-tricks.com/) - Blog na którym można znaleźć wiele przydatnych informacji na temat CSS.
 
 ### Java
 *Linki związane programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
