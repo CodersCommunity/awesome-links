@@ -36,6 +36,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 
 * [Kurs HTML](http://www.kurshtml.edu.pl) - Rozwinięty kurs front-endowy.
 * [Manual JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Jedna z najlepszych dokumentacji JavaScript.
+* [CSS-Tricks](https://css-tricks.com/) - Blog na którym można znaleźć wiele przydatnych informacji na temat CSS.
 
 ### Java
 *Linki związane programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
