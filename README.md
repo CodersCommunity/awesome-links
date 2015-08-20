@@ -61,6 +61,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 
 * [Code School Git](https://www.codeschool.com/paths/git) - B. Dobry zbiór poradników które w interaktywny sposób uczą obsługi gita.
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - Interaktywny poradnik gita.
+* [Git Reference](https://git-scm.com/docs) - Oficjalna dokumentacja Git.
 
 ### Inne
 *Linki które nie pasują do powyższych kategorii.*
