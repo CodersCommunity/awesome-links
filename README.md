@@ -31,6 +31,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 * [DDD & VO](http://it.esky.pl/2015/07/10/domain-driven-design-value-objects/) - Artykuł dotyczący Value Objects w PHP.
 * [Blog Majstra](http://phpmajster.blogspot.com/search/label/PHP) - B. Ciekawy blog związany z PHP i nie tylko :+1:
 * [Awesome Python](https://github.com/vinta/awesome-python) - Lista frameworków i bibliotek w Pythonie.
+* [Learn Python in X minutes](http://learnxinyminutes.com/docs/python3/) - Zwięzłe przedstawienie składni Pythona ( dla ludzi już umiejących programować )
 
 ### Front-end
 *Linki związane z programowaniem front-endowym, czyli HTML, CSS i JavaScript. Artykuły, Repozytoria, Przykłady*
