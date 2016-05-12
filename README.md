@@ -51,7 +51,9 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 
 * [si-szarp.pl](http://web.archive.org/web/20141218062749/http://si-szarp.pl/) - Prosty kurs dla początkujących.
 * [Cezary Walenciuk](http://www.cezarywalenciuk.pl/category/c.aspx) - Blog i kurs C# w jednym.
-
+* [4programmers tutorial](http://4programmers.net/C_sharp) - kurs z lukami, zawiera łatwe do zrozumienia treści.
+* [C# Reference](https://msdn.microsoft.com/en-us/library/618ayhy6.aspx) - C# odniesienia. Czyli słowa kluczowe, operatory i tak dalej
+* [.NET documentation](https://msdn.microsoft.com/en-us/library/w0x726c2.aspx) - dokumentacja .NET, znajdziesz tam wszystkie klasy które są w .NET, zawiera także informacje co nowego się pojawiło wraz z kolejnym numerkiem.
 
 ### LINUX
 *Linki związane głównie z Linuxem (Wszystkie dystrybucje) oraz ciekawe materiały*
