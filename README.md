@@ -67,6 +67,12 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - Interaktywny poradnik gita.
 * [Git Reference](https://git-scm.com/docs) - Oficjalna dokumentacja Git.
 
+### GameDev
+*Linki związane z szeroko pojętym tworzeniem gier*
+
+* [warsztat.gd](http://warsztat.gd/) - wiele artykułów o tworzeniu gier, można dodać swój projekt, który zostanie oceniony przez społaczność zajmującą się na co dzień gamedevem
+* [tworzenie platformówek](http://informatyka.wroc.pl/gry) - bardzo fajne poradniki z tworzenia gier 2D
+
 ### Inne
 *Linki które nie pasują do powyższych kategorii.*
 
