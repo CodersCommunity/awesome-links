@@ -14,6 +14,8 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 	- [C#](#csharp)
 	- [LINUX](#linux)
 	- [VCS](#vcs)
+	- [GameDev](#gamedev)
+	- [ASSEMBLY](#assembly)
 	- [Inne](#inne)
 
 ### C++
@@ -68,10 +70,15 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 * [Git Reference](https://git-scm.com/docs) - Oficjalna dokumentacja Git.
 
 ### GameDev
-*Linki związane z szeroko pojętym tworzeniem gier*
+*Linki związane z szeroko pojętym tworzeniem gier.*
 
 * [warsztat.gd](http://warsztat.gd/) - wiele artykułów o tworzeniu gier, można dodać swój projekt, który zostanie oceniony przez społaczność zajmującą się na co dzień gamedevem
 * [tworzenie platformówek](http://informatyka.wroc.pl/gry) - bardzo fajne poradniki z tworzenia gier 2D
+
+### Assembly
+*Linki związane z językiem assembly.*
+
+* [Tutorial linux x64](https://github.com/0xAX/asm)
 
 ### Inne
 *Linki które nie pasują do powyższych kategorii.*
