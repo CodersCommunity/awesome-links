@@ -22,6 +22,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 *Linki związane z C++. Artykuły, Repozytoria, Przykłady*
 
 * [cpp0x.pl](http://www.cpp0x.pl) - Serwis na którym widnieje wiele kursów programowania razem z forum o C++.
+* [xion.org.pl](http://www.xion.org.pl) - Blog z wieloma artykułami po angielsku i jednym z najpopularniejszych polskich kursów programowania w C++
 
 ### Back-end
 *Linki związane z programowaniem Back-endowym. Artykuły, Repozytoria, Przykłady*
@@ -44,7 +45,7 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 * [CSS-Tricks](https://css-tricks.com/) - Blog na którym można znaleźć wiele przydatnych informacji na temat CSS.
 
 ### Java
-*Linki związane programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
+*Linki związane z programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
 
 * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Ciekawy artykuł na temat Mockowania obiektów.
 
