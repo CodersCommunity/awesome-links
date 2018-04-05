@@ -43,6 +43,39 @@ Zapoznaj się z [instrukcją](CONTRIBUTING.md) zgłaszania Pull Requestów.
 * [Kurs HTML](http://www.kurshtml.edu.pl) - Rozwinięty kurs front-endowy.
 * [How2HTML](http://how2html.pl/) - Kurs HTML dla początkujących.
 * [CSS-Tricks](https://css-tricks.com/) - Blog na którym można znaleźć wiele przydatnych informacji na temat CSS.
+* [The Awwwesomes](https://the-awwwesomes.gitbooks.io/html-css-step-by-step/content/pl/) - HTML i CSS wyjaśnione w przyjazny sposób i całkowicie od podstaw.
+* [Moja pierwsza strona internetowa w HTML5 i CSS](http://ferrante.pl/books/html/) - Od zera HTML i CSS.
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) [en] - Seria darmowych ebooków na temat JS, spokojnie można też znaleźć na internecie książki do kupienia w języku polskim.
+* [Kurs React.js](https://typeofweb.com/kurs/react-js/) - Kurs Reacta od podstaw.
+* [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
+* [awesome-react](https://github.com/enaqx/awesome-react) - Repo z linkami związanymi z Reactem.
+* [Flexbox Froggy](http://flexboxfroggy.com/) - Gra z żabkami :D dla początkujących, pomagająca zrozumieć działanie flexboxa.
+* [kurs.js](http://kursjs.pl/) - Kurs JavaScript od podstaw.
+* [codewars](https://www.codewars.com/) [en] - zadania do rozwiązywania online, różne języki (nie tylko te związane z webem)
+* [Sass cheatsheet](https://devhints.io/sass) - Ściągawka przedstawiająca część możliwości, jakie daje nam Sass.
+* [Git Tutorial](https://try.github.io/levels/1/challenges/1) - Tutorial do nauki obsługi gita z linii komend.
+
+#### Blogi
+
+* [Na Frontendzie](https://www.nafrontendzie.pl/) - Czyli tak, jak mówi nazwa bloga.
+* [Kot źródłowy](http://kot-zrodlowy.pl/) - JS, chociaż i ogólnie to, co kręci się wokół web developmentu.
+* [Poradnik Javascript](http://poradnik.drogimex.pl/) - Fajne artykuły głównie na temat JavaScriptu.
+* [JS.n00b](http://jsdn.pl/) - JavaScript i m.in.: testowanie kodu, TypeScript, MongoDB.
+
+#### Wybrane (ciekawsze?) artykuły
+
+* [Najczęstsze błędy początkujących (i nie tylko) webdeveloperów](http://kot-zrodlowy.pl/goscinne/programowanie/2017/09/11/najczeste-bledy-poczatkujacych-i-nie-tylko-webdeveloperow.html) - Takie "must have" dla osób, które coś tam już zaczęły zabawę z front-endem.
+* [Semantyczny blog w HTML5](https://tutorials.comandeer.pl/html5-blog.html) - Dobrze wyjaśniony HTML 5 na przykładzie bloga.
+* [Poprawne wstawianie ikonek na stronie](https://blog.comandeer.pl/a11y/html-css/2017/02/28/o-ikonkach-slow-kilka.html)
+* [O nagłówkach na stronie](https://blog.comandeer.pl/html-css/a11y/2017/07/04/o-naglowkach-slow-kilka.html)
+* [Dlaczego nie potrzebujesz Bootstrapa?](https://soanvig.github.io/dlaczego-nie-potrzebujesz-bootstrapa/) - Tytuł mówi za siebie.
+* [BEM](https://www.nafrontendzie.pl/metodyki-css-2-bem) - Block Element Modifier, czyli jeden ze sposobów na tworzenie modularnego kodu CSS.
+* [Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) [en] - przykładowy model "branchowania" za pomocą Gita
+
+#### Kanały na YouTubie
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) [en] - HTML, CSS, JS, React, Node, Vue, MongoDB i wiele innych. Krótkie filmiki, wytłumaczone prostym językiem.
+* [Kodu.je](https://www.youtube.com/channel/UCLLdzVN9P9lV8kmJhHsiuHA)
+* [Samuraj Programowania](https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg) - Dla początkujących, w tym jeden z fajniejszych kursów JavaScript od zera po polsku.
 
 ### Java
 *Linki związane z programowaniem w Javie. Artykuły, Repozytoria, Przykłady*
